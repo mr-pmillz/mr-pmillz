@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://www.hackthebox.eu/profile/92891" target="_blank"><img src="https://www.hackthebox.eu/badge/image/92891" alt="wildstyle9" /></a> </p>
 
 
-- 🌱  I’m currently learning **Kubernetes, Helm, Ansible, and Terraform**
+- 🌱  I’m currently working with the following technologies on a day to day **Kubernetes, Helm, Ansible, Golang, Python3, GitHub Actions, Jenkins, Magento2 and Terraform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
