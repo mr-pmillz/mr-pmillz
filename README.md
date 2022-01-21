@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phil Miller</h1>
 <h3 align="center">I enjoy Cyber Security, Devops Engineering, and Automation</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif">
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-pmillz&label=Profile%20views&color=0e75b6&style=flat" alt="mr-pmillz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-pmillz" alt="mr-pmillz" /></a> </p>
